@@ -113,12 +113,3 @@ Your program should be general enough so that if the content of the input file i
 
 If there is an error during reading inData.txt, your code should take care of the situation, i.e., consider a zero for that particular input that makes the error if you are expecting a number. For example if there is a character ‘A’ instead of width of a rectangle, you should consider a zero for the width and proceed for the rest of data in inData.txt. For any other possible errors, just clear the error and proceed reading the rest of inData.txt.
 
-
-
-
-
-Rubric:
-The program compiles and link successfully:          1 Mark
-(Note that if your code does not compile and link, you receive zero for this assignment.)
-The program checks and treat I/O errors correctly: 3 Mark
-The program produces correct outputs:                   6 Marks
